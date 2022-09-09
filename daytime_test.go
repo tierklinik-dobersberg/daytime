@@ -5,7 +5,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/tierklinik-dobersberg/cis/pkg/daytime"
+	"github.com/tierklinik-dobersberg/daytime"
 )
 
 func TestDayTimeParse(t *testing.T) {
